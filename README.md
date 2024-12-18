@@ -22,7 +22,7 @@ Exploring **Web Performance Optimization**, **Web Accessibility (WCAG)**, and **
 
 ### 💬 Let's Connect!
 - Portfolio: [Your Portfolio Website](#)
-- LinkedIn: [https://www.linkedin.com/in/ripon271/](#)
+- LinkedIn: [https://www.linkedin.com/in/ripon271/](https://www.linkedin.com/in/ripon271/)
 - Twitter: [Your Twitter Handle](#)
 
 ### ✨ Fun Fact
