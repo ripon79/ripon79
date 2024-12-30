@@ -22,7 +22,7 @@ Exploring **Web Performance Optimization**, **Web Accessibility (WCAG)**, and **
 - [**Project 3**](#): [Brief description of the project, e.g., "An e-commerce site with a shopping cart and user authentication."]
 
 ### 💬 Let's Connect!
-- Portfolio: [Your Portfolio Website](ViewPortfolio.php)
+- Portfolio: [Your Portfolio Website]([ViewPortfolio](http://localhost/Assignment/ViewPortfolio.php)
 - LinkedIn: [https://www.linkedin.com/in/ripon271/](https://www.linkedin.com/in/ripon271/)
 - Twitter: [Your Twitter Handle](#)
 
